@@ -20,7 +20,7 @@ team_members:
     score: -1
     desc: "did some work but didn't create any pull requests which impeded some tasks"
   Miller:
-    score: 0
+    score: 1
     desc: "Made good contributions to their task and made good progress in planning ai, and was helpful to teammates with issues"
   Ukattah:
     score: 0
