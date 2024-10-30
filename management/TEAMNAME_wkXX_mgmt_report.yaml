@@ -1,12 +1,30 @@
 # Magagment week end report
-manager_lastname: ""
-week: 1
+manager_lastname: "Conrad"
+week: 10
 commit: ""
 # Team member evalution
 team_members:
-  STUDENT1_LAST_NAME:
+  Conrad:
     score: 0
-    desc: ""
-  STUDENT2_LAST_NAME:
+    desc: "I believe I performed adequately"
+  Devane:
+    score: -1
+    desc: "Was unable to do any work this week due to unforeseen personal events"
+  Fleming:
     score: 0
-    desc: ""
+    desc: "Worked hard and made progress on their task"
+  Jan:
+    score: 0
+    desc: "Completed their task well"
+  Liang:
+    score: -1
+    desc: "did some work but didn't create any pull requests which impeded some tasks"
+  Miller:
+    score: 0
+    desc: "Made good contributions to their task and made good progress in planning ai, and was helpful to teammates with issues"
+  Ukattah:
+    score: 0
+    desc: "Worked hard and made progress on their task as well"
+  Zhang:
+    score: 1
+    desc: "Completed their task well and was very helpful to all teammates with their problems"
